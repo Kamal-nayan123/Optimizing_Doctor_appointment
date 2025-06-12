@@ -1,3 +1,4 @@
+This project was built as a team 
 # Optimizing Doctor Availability and Appointment Allocation in Hospitals through Digital Technology and Al Integration.
 
 To develop a digital system that streamlines the appointment scheduling process in 
